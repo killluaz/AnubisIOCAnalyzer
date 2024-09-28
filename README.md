@@ -1,7 +1,8 @@
 AnubisIOCAnalyzer 🛡️🔍
-Show Image
+
 🌟 Descripción General
-AnubisIOCAnalyzer es un potente y amigable script en Python diseñado para analizar Indicadores de Compromiso (IOCs) utilizando la API de VirusTotal. Nombrado en honor al dios egipcio Anubis, conocido por guiar a las almas en el más allá, esta herramienta guía a los profesionales de seguridad a través del proceso de identificación de posibles amenazas.
+AnubisIOCAnalyzer es un potente y amigable script en Python diseñado para analizar Indicadores de Compromiso (IOCs) utilizando la API de VirusTotal.
+
 🚀 Características
 
 🔧 Instalación automática de prerrequisitos
@@ -25,13 +26,13 @@ Clave de API de VirusTotal
 🛠️ Instalación
 
 Clona el repositorio:
-Copygit clone https://github.com/tuusuario/AnubisIOCAnalyzer.git
+Copygit clone https://github.com/killluaz/AnubisIOCAnalyzer.git
 
 Navega al directorio del proyecto:
-Copycd AnubisIOCAnalyzer
+cd AnubisIOCAnalyzer
 
 Ejecuta el script con privilegios de sudo:
-Copysudo python3 anubis_ioc_analyzer.py
+sudo python3 anubis_ioc_analyzer.py
 
 Elige la opción 1 del menú para instalar los prerrequisitos automáticamente.
 
@@ -57,12 +58,16 @@ El informe HTML generado incluye:
 
 🛡️ Seguridad
 Este script está diseñado para ser utilizado por profesionales de seguridad. Asegúrate de tener los permisos necesarios antes de analizar cualquier IOC.
+
 🤝 Contribuciones
 Las contribuciones son bienvenidas. Por favor, abre un issue para discutir cambios mayores antes de crear un pull request.
+
 📜 Licencia
 Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más detalles.
+
 📞 Contacto
 Si tienes preguntas o sugerencias, no dudes en abrir un issue en este repositorio.
 
-Desarrollado con ❤️ por killuaz
+Desarrollado por killuaz
+
 🔍 Mantén tus sistemas seguros con AnubisIOCAnalyzer 🛡️
