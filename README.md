@@ -33,9 +33,13 @@ sudo python3 anubis_ioc_analyzer.py
 Nuevas Características
 
 ✅ Soporte multi-motor (VirusTotal + AbuseIPDB + Maltiverse)
+
 ✅ Información de fechas de análisis/reportes
+
 ✅ Interfaz mejorada con más opciones
+
 ✅ Sistema de puntuación unificado
+
 ✅ Informes HTML más detallados con gráficos
 
 Mejoras Técnicas
