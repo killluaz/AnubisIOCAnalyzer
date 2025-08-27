@@ -23,10 +23,9 @@ Claves API
 Clona el repositorio:
 git clone https://github.com/killluaz/AnubisIOCAnalyzer.git
 
-Navega al directorio del proyecto:
-cd AnubisIOCAnalyzer
+Navega al directorio del proyecto
 
-Ejecuta el script con privilegios de sudo:
+Ejecuta el script con privilegios:
 sudo python3 anubis_ioc_analyzer.py
 
 🔄 Actualizaciones v2.0
@@ -58,7 +57,7 @@ Crea una rama para tu feature
 Envía un pull request
 
 📜 Licencia
-Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más detalles.
+Este proyecto está bajo la licencia MIT.
 
 📞 Soporte y Contacto
 
